@@ -1,0 +1,5 @@
+name: LogDiscordMC
+version: '1.0'
+main: si.f5.actedmc.logDiscordMC.LogDiscordMC
+api-version: '1.21'
+authors: [ Acted ]
